@@ -16,5 +16,6 @@ setup(name=package_name,
       author_email='scottabelden@gmail.com',
       license='Apache 2.0',
       url='https://github.com/scottbelden/avrobase',
+      download_url='https://github.com/scottbelden/avrobase/tarball/0.0.1',
       packages=[package_name],
 )
